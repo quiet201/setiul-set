@@ -1,0 +1,13 @@
+1.AutoFileName
+2.Better Completion
+3.BracketHighlighter
+4.ChineseLocalization
+5.ConverToUTF-8
+6.Emmet
+7.Grunt Snippets
+8.javaScriptNext - ES6 Syntax
+9.Less
+10.node
+11.sublimeLinter
+12.sublimeLinter-jshint
+13.sublimeLinterTmpl
