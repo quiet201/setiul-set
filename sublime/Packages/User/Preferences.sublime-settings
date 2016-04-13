@@ -1,0 +1,32 @@
+{
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"fade_fold_buttons": false,
+	"font_size": 12,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_tags": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		0,
+		0
+	],
+	"spell_check": false,
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

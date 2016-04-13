@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"Better Completion",
+		"BracketHighlighter",
+		"ChineseLocalization",
+		"ConvertToUTF8",
+		"Emmet",
+		"Grunt Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"Nodejs",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeTmpl"
+	]
+}

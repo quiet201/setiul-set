@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key> <!-- 背景 -->
+    			<string>#fff</string>
+		        <key>caret</key> <!-- 光标 -->
+		        <string>#000</string>
+		        <key>foreground</key> <!-- 前景 -->
+		        <string>#000</string>
+		        <key>invisibles</key> <!-- 无视的 -->
+		        <string>#F00</string>
+		        <key>selection</key> <!-- 选择 -->
+		        <string>#338FFF</string>
+		        <key>selectionForeground</key> <!-- 选中 -->
+                <string>#505050</string>
+                <key>selectionBorder</key>  <!-- 选择边框 -->
+                <string>transparent</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

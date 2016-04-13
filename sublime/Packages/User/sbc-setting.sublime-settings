@@ -1,0 +1,9 @@
+{
+    "auto_complete_triggers":
+     [
+      {
+       "characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+       "selector": "text, source, meta, string, punctuation, constant"
+      }
+     ],
+}

@@ -1,0 +1,26 @@
+[
+    //chrome
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                "extensions":".*"
+            }
+     },
+     //firefox
+     { "keys": ["f3"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "E:\\fireFox\\fireFox.exe",
+                "extensions":".*"
+            }
+     },
+     //IE
+     { "keys": ["f4"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe",
+                "extensions":".*"
+            }
+     },
+]
